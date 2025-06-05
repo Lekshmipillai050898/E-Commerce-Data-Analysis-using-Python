@@ -124,11 +124,11 @@ A heatmap was created to analyze correlations between numeric features.
 
 Key Observations:
 
-Strong correlation between Total_Amount and Final_Amount
+1.Strong correlation between Total_Amount and Final_Amount
 
-Moderate correlation between Price and Final_Amount
+2.Moderate correlation between Price and Final_Amount
 
-Other features show minimal correlation
+3.Other features show minimal correlation
 
 ## Conclusion
 
@@ -144,13 +144,13 @@ Other features show minimal correlation
 
 ## Recommendations
 
-Reduce return rates by analyzing reasons and improving quality
+1.Reduce return rates by analyzing reasons and improving quality
 
-Boost Furniture category through promotions — it's high-value
+2.Boost Furniture category through promotions — it's high-value
 
-Offer loyalty perks to top customers to improve retention
+3.Offer loyalty perks to top customers to improve retention
 
-Focus marketing on popular payment methods like Credit Card and UPI
+4.Focus marketing on popular payment methods like Credit Card and UPI
 
-Test pricing and discount strategies to maximize Final Amount
+5.Test pricing and discount strategies to maximize Final Amount
 
