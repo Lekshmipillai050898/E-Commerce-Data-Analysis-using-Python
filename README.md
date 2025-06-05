@@ -4,7 +4,7 @@
 
 To perform an end-to-end exploratory data analysis (EDA) on an e-commerce dataset to understand customer behavior, sales trends, returns, payment modes, and product performance using Python.
 
-##Goal
+## Goal
 
 1.Clean and preprocess raw e-commerce data
 
